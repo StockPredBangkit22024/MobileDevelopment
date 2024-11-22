@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">StockPred</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="predict_fragment">Predict Fragment</string>
+    <string name="you_seem_to_be_offline">You seem to be offline.</string>
+    <string name="kindly_check_your_connection">Kindly check your connection.</string>
+    <string name="internet_access_unavailable">Internet Access Unavailable</string>
+    <string name="close">Close</string>
+    <string name="refresh">Refresh</string>
+    <string name="input_usd_idr_exchange_rate_data">Input USD/IDR Exchange Rate Data</string>
+    <string name="usd_idr_exchange_rate">USD/IDR Exchange Rate</string>
+    <string name="bank_indonesia_interest_rate">Bank Indonesia Interest Rate</string>
+    <string name="input_bank_indonesia_interest_rate_data">Input Bank Indonesia Interest Rate Data</string>
+
+    <string-array name="stock_code">
+        <item>BBRI</item>
+        <item>BBCA</item>
+        <item>BMRI</item>
+        <item>TLKM</item>
+        <item>UNVR</item>
+        <item>GGRM</item>
+        <item>ANTM</item>
+        <item>ASII</item>
+        <item>HEXA</item>
+        <item>ICBP</item>
+        <item>SMGR</item>
+        <item>PGAS</item>
+        <item>MEGA</item>
+        <item>KLBF</item>
+        <item>CPIN</item>
+        <item>EXCL</item>
+        <item>INDF</item>
+        <item>LPKR</item>
+        <item>WIKA</item>
+        <item>JSMR</item>
+    </string-array>
+
+    <string-array name="stock_name">
+        <item>Bank Rakyat Indonesia</item>
+        <item>Bank Central Asia</item>
+        <item>Bank Mandiri</item>
+        <item>Telkom Indonesia</item>
+        <item>Unilever Indonesia</item>
+        <item>Gudang Garam</item>
+        <item>Antam</item>
+        <item>Astra International</item>
+        <item>Hexindo Adiperkasa</item>
+        <item>Indofood CBP Sukses Makmur</item>
+        <item>Semen Gresik</item>
+        <item>Perusahaan Gas Negara</item>
+        <item>Bank Mega</item>
+        <item>Kalbe Farma</item>
+        <item>Charoen Pokphand Indonesia</item>
+        <item>XL Axiata</item>
+        <item>Indofood Sukses Makmur</item>
+        <item>Lippoland Kencana</item>
+        <item>Wijaya Karya</item>
+        <item>Jasa Marga</item>
+    </string-array>
+
+    <string-array name="stock_prices">
+        <item>7000</item>
+        <item>8500</item>
+        <item>8000</item>
+        <item>3800</item>
+        <item>5200</item>
+        <item>9200</item>
+        <item>4100</item>
+        <item>7300</item>
+        <item>6200</item>
+        <item>12000</item>
+        <item>8700</item>
+        <item>6500</item>
+        <item>10000</item>
+        <item>9300</item>
+        <item>5100</item>
+        <item>7600</item>
+        <item>8900</item>
+        <item>7000</item>
+        <item>9600</item>
+        <item>10200</item>
+    </string-array>
+</resources>
