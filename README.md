@@ -32,3 +32,21 @@ This initiative is part of the capstone project for the Bangkit 2024 Batch 2 pro
 
 ## Let's Get Started
 To get started with the StockPred Mobile Development project, please follow these detailed steps:
+
+1. **Clone the Repository**  
+   Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/StockPredBangkit22024/MobileDevelopment.git
+   
+2. **Install Dependencies**
+   Navigate to the project directory and sync the project with Gradle to install the necessary dependencies:
+   ```bash
+   ./gradlew build
+
+3. **Configure API Keys**  
+   If required, add your API keys for the backend API in the appropriate configuration file. Ensure the keys are securely stored and not exposed in the public repository.
+
+4. **Run the Application**  
+   You can now run the application either on an Android emulator or a physical device. In Android Studio, click on the "Run" button or use the following command:
+   ```bash
+   ./gradlew installDebug
