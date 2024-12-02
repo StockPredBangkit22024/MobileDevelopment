@@ -30,4 +30,5 @@ This initiative is part of the capstone project for the Bangkit 2024 Batch 2 pro
 
 ---
 
-
+## Let's Get Started
+To get started with the StockPred Machine Learning project, please follow these detailed steps:
