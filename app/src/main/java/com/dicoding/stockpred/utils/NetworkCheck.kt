@@ -1,4 +1,4 @@
-package com.dicoding.stockpred
+package com.dicoding.stockpred.utils
 
 import android.content.Context
 import android.net.ConnectivityManager

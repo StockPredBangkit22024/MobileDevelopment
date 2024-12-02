@@ -12,6 +12,28 @@
     <string name="usd_idr_exchange_rate">USD/IDR Exchange Rate</string>
     <string name="bank_indonesia_interest_rate">Bank Indonesia Interest Rate</string>
     <string name="input_bank_indonesia_interest_rate_data">Input Bank Indonesia Interest Rate Data</string>
+    <string name="indonesia_inflation_rate">Indonesia Inflation Rate</string>
+    <string name="input_indonesia_inflation_rate">Input Indonesia Inflation Rate Data</string>
+    <string name="stock_image">StockImage</string>
+    <string name="no_prediction_result">No prediction results</string>
+    <string name="internet_available">Internet available</string>
+    <string name="internet_lost">Internet lost</string>
+    <string name="input_prompt">Please input first</string>
+    <string name="unknown_name">Unknown Name</string>
+    <string name="unknown_logo_url">Unknown logo URL</string>
+    <string name="prediction_failed">Failed to get prediction</string>
+    <string name="stock_detail_fetch_failed">Failed to fetch stock details</string>
+    <string name="connection_successful">Connection successful!</string>
+    <string name="connection_failed">Connection failed. Please try again!</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="stock_logo">StockLogo</string>
+    <string name="clear">Clear</string>
+    <string name="predict">Predict</string>
+    <string name="stock_code">STOCK123</string>
+    <string name="stock_name">Stock name</string>
+    <string name="stock_sector">Stock sector</string>
+    <string name="stock_description">Stock description</string>
+    <string name="visit_website">Visit company website</string>
 
     <string-array name="stock_code">
         <item>BBRI</item>

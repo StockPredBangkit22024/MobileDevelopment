@@ -21,7 +21,7 @@
         android:paddingEnd="12dp"
         android:paddingBottom="8dp">
 
-        <!-- Gambar logo yang lebih kecil -->
+        <!-- Smaller logo image -->
         <ImageView
             android:id="@+id/img_item_photo"
             android:layout_width="60dp"
@@ -35,7 +35,7 @@
             card_view:layout_constraintTop_toTopOf="parent"
             tools:src="@tools:sample/avatars" />
 
-        <!-- Teks Stock Code -->
+        <!-- Text Stock Code -->
         <TextView
             android:id="@+id/tv_stock_code"
             android:layout_width="0dp"
@@ -45,13 +45,13 @@
             android:layout_marginEnd="12dp"
             android:textSize="16sp"
             android:textStyle="bold"
-            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintEnd_toStartOf="@id/tv_stock_price"
             card_view:layout_constraintHorizontal_bias="0.0"
             card_view:layout_constraintStart_toEndOf="@id/img_item_photo"
             card_view:layout_constraintTop_toTopOf="@id/img_item_photo"
             tools:text="Stock Code" />
 
-        <!-- Teks Stock Name -->
+        <!-- Text Stock Name -->
         <TextView
             android:id="@+id/tv_stock_name"
             android:layout_width="0dp"
@@ -62,10 +62,25 @@
             android:ellipsize="end"
             android:maxLines="1"
             android:textSize="14sp"
-            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintEnd_toStartOf="@id/tv_stock_price"
             card_view:layout_constraintStart_toEndOf="@id/img_item_photo"
             card_view:layout_constraintTop_toBottomOf="@id/tv_stock_code"
             tools:text="Stock Name" />
+
+        <!-- Predicted Price -->
+        <TextView
+            android:id="@+id/tv_stock_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:gravity="center"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            tools:text="$123.45" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.cardview.widget.CardView>
