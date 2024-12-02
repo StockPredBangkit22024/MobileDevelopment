@@ -22,7 +22,7 @@ This application aims to help investors address the uncertainty in stock investi
 
 ---
 
-## Key Features
+## Features
 
 - **Stock Price Prediction**: The core feature of the app that predicts the price of 20 stocks based on three macroeconomic factors: USD/IDR exchange rate, Bank Indonesia interest rates, and inflation rate.
 - **User-Friendly Interface**: A Material Design-based interface ensures an intuitive and easy-to-navigate experience for users to input data and view results.
