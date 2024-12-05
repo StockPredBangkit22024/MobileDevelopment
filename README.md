@@ -6,6 +6,7 @@ StockPred is a cutting-edge stock prediction tool that utilizes AI to predict st
 
 ## Built for Bangkit 2024 Batch 2 Capstone Project
 This initiative is part of the capstone project for the Bangkit 2024 Batch 2 program.
+The UI/UX design for this project is available on [Figma](https://www.figma.com/design/9T7eOKJevGDkT3DXmuTUqA/StockPred-App?node-id=1-3&t=TFf3folQDXNbgEnZ-1).
 
 ---
 
