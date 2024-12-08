@@ -51,3 +51,8 @@ To get started with the StockPred Mobile Development project, please follow thes
    You can now run the application either on an Android emulator or a physical device. In Android Studio, click on the "Run" button or use the following command:
    ```bash
    ./gradlew installDebug
+
+# Authors
+- Alvian Rofius Salam - Mobile Development - [rougaax](https://github.com/rougaax)
+- Candra Bagus Ainur Rochman - Mobile Development - [BatuMalas](https://github.com/BatuMalas)
+
