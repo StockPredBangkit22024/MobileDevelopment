@@ -14,12 +14,11 @@ The UI/UX design for this project is available on [Figma](https://www.figma.com/
 Here are some screenshots of the StockPred app in action:
 
 <p align="center">
-  <img src="assets/Home.png" alt="Home Screen" width="270">
-  <img src="assets/Detail.png" alt="Detail Screen" width="270">
-  <img src="assets/Predict.png" alt="Prediction Screen" width="270">
-  <img src="assets/Result.png" alt="Result Screen" width="270">
+  <img src="assets/Home.png" alt="Home Screen" width="200">
+  <img src="assets/Detail.png" alt="Detail Screen" width="200">
+  <img src="assets/Predict.png" alt="Prediction Screen" width="200">
+  <img src="assets/Result.png" alt="Result Screen" width="200">
 </p>
-
 
 ---
 
