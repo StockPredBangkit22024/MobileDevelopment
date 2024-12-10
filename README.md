@@ -13,24 +13,12 @@ The UI/UX design for this project is available on [Figma](https://www.figma.com/
 ## Screenshots
 Here are some screenshots of the StockPred app in action:
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <div style="text-align: center;">
-    <p>Home Screen</p>
-    <img src="assets/Home.png" alt="Home Screen" width="200">
-  </div>
-  <div style="text-align: center;">
-    <p>Detail Screen</p>
-    <img src="assets/Detail.png" alt="Detail Screen" width="200">
-  </div>
-  <div style="text-align: center;">
-    <p>Prediction Screen</p>
-    <img src="assets/Predict.png" alt="Prediction Screen" width="200">
-  </div>
-  <div style="text-align: center;">
-    <p>Result Screen</p>
-    <img src="assets/Result.png" alt="Result Screen" width="200">
-  </div>
-</div>
+<p align="center">
+  <img src="assets/Home.png" alt="Home Screen" width="200">
+  <img src="assets/Detail.png" alt="Detail Screen" width="200">
+  <img src="assets/Predict.png" alt="Prediction Screen" width="200">
+  <img src="assets/Result.png" alt="Result Screen" width="200">
+</p>
 
 ---
 
