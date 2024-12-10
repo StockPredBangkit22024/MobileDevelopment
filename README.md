@@ -10,6 +10,16 @@ The UI/UX design for this project is available on [Figma](https://www.figma.com/
 
 ---
 
+## Screenshots
+Here are some screenshots of the StockPred app in action:
+
+![Home Screen](assets/Home.png)
+![Detail Screen](assets/Detail.png)
+![Prediction Screen](assets/Predic.png)
+![Result Screen](assets/Result.png)
+
+---
+
 ## Features
 
 - **Stock Price Prediction**: The core feature of the app that predicts the price of 20 stocks based on three macroeconomic factors: USD/IDR exchange rate, Bank Indonesia interest rates, and inflation rate.
