@@ -65,6 +65,6 @@ To get started with the StockPred Mobile Development project, please follow thes
    ./gradlew installDebug
 
 # Authors
-- Alvian Rofius Salam - Mobile Development - [rougaax](https://github.com/rougaax)
+- Alvian Rofius Salam - Mobile Development - [rougaax](https://github.com/alvianrofius)
 - Candra Bagus Ainur Rochman - Mobile Development - [BatuMalas](https://github.com/BatuMalas)
 
